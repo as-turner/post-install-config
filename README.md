@@ -208,18 +208,18 @@ Set Access Settings.
 <br />
 
 <p>
-<img src="https://i.imgur.com/GBW3tfn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/XYamuDF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Click Create after selecting Team.
+Click Create after selecting Team. 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DrG87v7L.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/KyJVgie.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Go back to Agents and repeat steps for Agent 2.
+Go back to Agents and repeat steps for Agent 2. 
 </p>
 <br />
 
@@ -312,7 +312,7 @@ Configure Help Topics.
 <br />
 
 <p>
-<img src="https://i.imgur.com/r6bCFGuB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/r6bCFGu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Create Business Critical Outage and repeat the steps for the others. All Helps Topics are listed on the final slide.
